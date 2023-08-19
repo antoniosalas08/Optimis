@@ -2,7 +2,7 @@
 
 ## Analisis basico
 1. [token](#token)
-2. [Technologies](#technologies)
+2. [funciones principales](#funciones-principales)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
